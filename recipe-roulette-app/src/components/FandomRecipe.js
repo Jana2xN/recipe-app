@@ -10,3 +10,5 @@ const FandomRecipe = ({ recipe }) => {
         </div>
     );
 };
+
+export default FandomRecipe;
